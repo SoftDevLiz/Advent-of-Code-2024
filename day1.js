@@ -75,6 +75,3 @@ async function fetchPuzzleInput() {
     console.log(answer)
     })();
 
-                                                    // PART TWO
-
-
